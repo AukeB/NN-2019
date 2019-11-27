@@ -4,7 +4,7 @@ import random
 import sys
 from scipy.spatial import distance
 
-# Paths and filenames.
+# Paths and filenames. test
 DATA_PATH = "/vol/home/s1594443/Desktop/NN/Assignment_01/data/"
 train_in_path = "train_in.csv"
 train_out_path = "train_out.csv"
